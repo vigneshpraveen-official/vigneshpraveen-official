@@ -17,7 +17,7 @@ I'm Vigneshpraveen, currently pursuing my B.E. in Computer Science and Engineeri
 ---
 
 ## 🔥 Featured Projects
-### 🌟 [matxH.com](https://matxH.com) - Matrix Calculation Tool
+### 🌟 [matxH.com]([https://matxH.com](https://github.com/harini1847/matxH.com)) - Matrix Calculation Tool
 > Enhanced the matrix calculation functionalities, optimized the UI with responsive design, resulting in a **25% increase in user engagement**.
 
 ### 🎮 Tic-Tac-Toe Web Application
@@ -49,7 +49,9 @@ I'm Vigneshpraveen, currently pursuing my B.E. in Computer Science and Engineeri
 
 ## 🌐 Let's Connect!
 - **GitHub**: [vigneshpraveen-official](https://github.com/vigneshpraveen-official)
-- **LinkedIn**: [Vigneshpraveen A](https://www.linkedin.com/in/vigneshpraveen-a)
+- **LinkedIn**: [Vigneshpraveen A]([https://www.linkedin.com/in/vigneshpraveen-a](https://www.linkedin.com/in/vigneshpraveenofficial/))
 - **Email**: [vigneshpraveenofficial@gmail.com](mailto:vigneshpraveenofficial@gmail.com)
 
 Let's collaborate, learn, and build impactful tech solutions together!
+
+---
