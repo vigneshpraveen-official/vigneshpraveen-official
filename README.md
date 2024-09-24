@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vigneshpraveen A
+# Hi There 👋, I'm VIGNESHPRAVEEN A
 
 ## 💻 Computer Science Engineer | Web Developer | Tech Enthusiast
 
@@ -12,7 +12,7 @@ I'm Vigneshpraveen, currently pursuing my B.E. in Computer Science and Engineeri
   - **Algorithms**: Design and Analysis of Algorithms
   - **Web Development**: Creating responsive, visually appealing websites
   - **Database Management**: Certified in DBMS principles
-- **Tools & Frameworks**: Git, APIs, Bootstrap, DOM Manipulation
+- **Tools & Frameworks**: Git, APIs
 
 ---
 
@@ -49,7 +49,7 @@ I'm Vigneshpraveen, currently pursuing my B.E. in Computer Science and Engineeri
 
 ## 🌐 Let's Connect!
 - **GitHub**: [vigneshpraveen-official](https://github.com/vigneshpraveen-official)
-- **LinkedIn**: [Vigneshpraveen A]([https://www.linkedin.com/in/vigneshpraveen-a](https://www.linkedin.com/in/vigneshpraveenofficial/))
+- **LinkedIn**: [Vigneshpraveen A](https://www.linkedin.com/in/vigneshpraveenofficial/)
 - **Email**: [vigneshpraveenofficial@gmail.com](mailto:vigneshpraveenofficial@gmail.com)
 
 Let's collaborate, learn, and build impactful tech solutions together!
