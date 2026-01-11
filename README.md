@@ -92,10 +92,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshpraveen-official&theme=radical&hide_border=false&border_color=34a853&background_color=0d1117" alt="GitHub Streak">
 </p>
-
+<!--
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vigneshpraveen-official&theme=radical&hide_border=false&cache_buster=2026" alt="GitHub Streak">
 </p>
+-->
 <!-- Primary Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshpraveen-official&theme=react-dark&hide_border=false&area=true&cache_buster=2026" width="100%" alt="Activity Graph">
