@@ -18,8 +18,6 @@
   Passionate Computer Science Engineer from RMK College of Engineering & Technology, with more than 75% in academics and specializing in fullstack web development. Hands-on expert in React.js, Node.js, and modern tech stacks. Problem-solver with strong coding skills, AI automation proficiency, and proven ability to build scalable, user-focused applications. Ready to deliver impact!
 </p>
 
-
-
 <div align="left">
   <h2>Tech Stack</h2>
 </div>
@@ -82,31 +80,33 @@
   </a>
 </p>
 
-
-
-
 <div align="left">
   <h2>GitHub Analytics</h2>
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vigneshpraveen-official&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshpraveen-official&layout=compact&theme=radical" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vigneshpraveen-official&show_icons=true&theme=radical&count_private=false&include_all_commits=true&border_color=34a853&bg_color=0d1117" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vigneshpraveen-official&layout=compact&theme=radical&border_color=34a853&bg_color=0d1117" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vigneshpraveen-official&theme=radical&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshpraveen-official&theme=radical&hide_border=false&border_color=34a853&background_color=0d1117" alt="GitHub Streak">
 </p>
 
+<!-- Primary Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshpraveen-official&theme=react-dark&hide_border=false&area=true" width="100%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshpraveen-official&theme=react-dark&hide_border=false&area=true&cache_buster=2026" width="100%" alt="Activity Graph">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vigneshpraveen-official&theme=radical&row=1&column=6" alt="GitHub Trophies">
-</p>
+<!-- Primary Trophy Provider -->
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vigneshpraveen-official&theme=radical&row=1&column=6&cache_buster=2026" alt="GitHub Trophies">
+</p> -->
 
-
+<!-- Fallback Trophy Provider -->
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshpraveen-official&theme=radical&cache_buster=2026" width="100%" alt="Profile Summary">
+</p> -->
 
 <div align="left">
   <h2>Competitive Coding Profiles</h2>
@@ -156,7 +156,6 @@
 </p>
 
 
-
 <div align="left">
   <h2>Connect With Me</h2>
 </div>
@@ -174,14 +173,9 @@
 </p>
 
 
-
 <div align="left">
   <h2>Let's build something amazing together!</h2>
 </div>
-
-<p align="left">
-  <em>"The best way to predict the future is to invent it." — Alan Kay</em>
-</p>
 
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Daily Dev Quote">
