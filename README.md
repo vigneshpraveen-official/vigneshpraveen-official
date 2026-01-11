@@ -94,13 +94,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vigneshpraveen-official&theme=radical&hide_border=false" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshpraveen-official&theme=radical&hide_border=false" alt="GitHub Streak">
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=vigneshpraveen-official&theme=radical&hide_border=false&cache_buster=2026" alt="GitHub Streak">
 </p>
 <!-- Primary Activity Graph -->
