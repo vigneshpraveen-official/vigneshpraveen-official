@@ -153,7 +153,7 @@
   <a href="https://github.com/vigneshpraveen-official" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
-  <a href="https://vigneshpraveenportfolio.netlify.app/" target="_blank">
+  <a href="https://portfolio.vigneshpraveen.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website">
   </a>
   <a href="https://www.udemy.com/user/vigneshpraveen-a-2/" target="_blank">
