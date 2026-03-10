@@ -79,6 +79,11 @@
     <img src="https://leetcard.jacoblin.cool/vigneshpraveen-official?theme=dark&font=inter" alt="LeetCode Stats">
   </a>
 </p>
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/vigneshpraveenofficial">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=vigneshpraveenofficial"/>
+  </a>
+</p>
 
 <div align="left">
   <h2>GitHub Analytics</h2>
