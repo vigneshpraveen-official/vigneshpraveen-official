@@ -101,7 +101,7 @@
 <div align="center">
 <img src="https://camo.githubusercontent.com/7037373f10034b8d642d4430ab295aa7d97726ba72039624c473477f421afa0a/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7669676e6573687072617665656e2d6f6666696369616c267468656d653d7261646963616c26686964655f626f726465723d66616c736526626f726465725f636f6c6f723d333461383533266261636b67726f756e645f636f6c6f723d306431313137">
 </div>
-
+<br>
 <!-- Primary Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshpraveen-official&theme=react-dark&hide_border=false&area=true&cache_buster=2026" width="100%" alt="Activity Graph">
