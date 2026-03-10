@@ -68,10 +68,8 @@
   <img src="https://img.shields.io/badge/Gemini_CLI-AI_Assisted_Development-4285F4?style=flat" alt="Gemini AI">
 </p>
 
-
-
 <div align="left">
-  <h2>LeetCode Profile & Statistics</h2>
+  <h2>LeetCode</h2>
 </div>
 
 <p align="center">
@@ -79,6 +77,11 @@
     <img src="https://leetcard.jacoblin.cool/vigneshpraveen-official?theme=dark&font=inter" alt="LeetCode Stats">
   </a>
 </p>
+
+<div align="left">
+  <h2>GeeksForGeeks</h2>
+</div>
+
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/vigneshpraveenofficial">
     <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=vigneshpraveenofficial"/>
@@ -94,33 +97,15 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vigneshpraveen-official&layout=compact&theme=radical&border_color=34a853&bg_color=0d1117" alt="Top Languages">
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshpraveen-official&theme=radical&hide_border=false&border_color=34a853&background_color=0d1117" alt="GitHub Streak">
-</p> -->
-
 <!-- By Me -->
 <div align="center">
 <img src="https://camo.githubusercontent.com/7037373f10034b8d642d4430ab295aa7d97726ba72039624c473477f421afa0a/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7669676e6573687072617665656e2d6f6666696369616c267468656d653d7261646963616c26686964655f626f726465723d66616c736526626f726465725f636f6c6f723d333461383533266261636b67726f756e645f636f6c6f723d306431313137">
 </div>
 
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vigneshpraveen-official&theme=radical&hide_border=false&cache_buster=2026" alt="GitHub Streak">
-</p> -->
-
 <!-- Primary Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshpraveen-official&theme=react-dark&hide_border=false&area=true&cache_buster=2026" width="100%" alt="Activity Graph">
 </p>
-
-<!-- Primary Trophy Provider -->
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vigneshpraveen-official&theme=radical&row=1&column=6&cache_buster=2026" alt="GitHub Trophies">
-</p> -->
-
-<!-- Fallback Trophy Provider -->
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshpraveen-official&theme=radical&cache_buster=2026" width="100%" alt="Profile Summary">
-</p> -->
 
 <div align="left">
   <h2>Competitive Coding Profiles</h2>
@@ -169,7 +154,6 @@
   </a>
 </p>
 
-
 <div align="left">
   <h2>Connect With Me</h2>
 </div>
@@ -185,7 +169,6 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
   </a>
 </p>
-
 
 <div align="left">
   <h2>Let's build something amazing together!</h2>
